@@ -38,16 +38,25 @@ Give alumni a voice with feedback tools to share ideas and experiences. Use insi
 ## Technology Stack
 
 React.js 
+
 React Native
+
 Node.js
+
 PostgreSQL 
+
 Stripe 
+
 AWS 
 
 ## Dependencies
 
 Mapping Service: 10 days
+
 Data Collection: 10 days
+
 Development (Frontend & Backend): 30 days
+
 Deployment and Launch: 10 days
+
 Budget: ₹50,000
