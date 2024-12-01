@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:1-12-24
+## Register Number:24006381
+## Name:Mitran R
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,43 @@ Government of Gujarat
 
 ## Idea
 
+Easy Registration and Profiles
+Simplify alumni registration so they can quickly join, update profiles, and connect. A shared database ensures data stays updated across web and mobile apps.
+
+Effortless Donations
+Make giving back simple and secure with an easy-to-use donation system. Alumni can track their contributions and see the impact they’re making.
+
+Career Connections
+Bring alumni together with a dedicated networking space. A built-in job portal helps them share opportunities, find mentors, and grow professionally.
+
+Celebrating Success
+Showcase alumni achievements to inspire others. Let alumni share their stories and contributions, building pride in the community.
+
+Events Made Simple
+Streamline event planning with tools for announcements, registrations, and updates. Add virtual options so everyone can join in, no matter where they are.
+
+Feedback That Shapes the Future
+Give alumni a voice with feedback tools to share ideas and experiences. Use insights to keep improving and delivering what alumni need.
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](1.png)
 
 ## Use Cases
-
+![alt text](college.jpg)
 
 ## Technology Stack
 
+React.js 
+React Native
+Node.js
+PostgreSQL 
+Stripe 
+AWS 
 
 ## Dependencies
 
+Mapping Service: 10 days
+Data Collection: 10 days
+Development (Frontend & Backend): 30 days
+Deployment and Launch: 10 days
+Budget: ₹50,000
